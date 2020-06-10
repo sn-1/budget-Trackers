@@ -8,6 +8,8 @@ This app allowes the user to add expenses and deposits to their budget with or w
 
   :large_orange_diamond: Enter expenses offline :white_check_mark:
 
+- - -
+
 :sparkle: Online:
 
  :large_orange_diamond: Offline entries should be added to tracker :white_check_mark:
